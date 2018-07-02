@@ -1,0 +1,20 @@
+{
+  "name": "mongo-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierleon94/Mongo-HW.git"
+  },
+  "author": "Javier Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierleon94/Mongo-HW/issues"
+  },
+  "homepage": "https://github.com/javierleon94/Mongo-HW#readme"
+}
